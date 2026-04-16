@@ -1,0 +1,8 @@
+langchain
+langchain-openai
+langchain-chroma
+openai
+langchain-community
+faiss-cpu
+langgraph
+python-dotenv
